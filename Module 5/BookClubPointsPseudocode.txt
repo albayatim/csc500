@@ -1,0 +1,8 @@
+1. Prompt user for the number of books purchased this month
+2. Initialize points to 0
+3. If books purchased is 0, points = 0
+4. Else if books purchased is 2, points = 5
+5. Else if books purchased is 4, points = 15
+6. Else if books purchased is 6, points = 30
+7. Else if books purchased is 8 or more, points = 60
+8. Display the points awarded

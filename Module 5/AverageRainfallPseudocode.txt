@@ -1,0 +1,10 @@
+1. Initialize total_rainfall to 0
+2. Initialize total_months to 0
+3. Prompt user for the number of years
+4. For each year in the range of number of years:
+    a. For each month in the range of 12:
+        i. Prompt user for the inches of rainfall for that month
+        ii. Add the rainfall to total_rainfall
+        iii. Increment total_months by 1
+5. Calculate average_rainfall by dividing total_rainfall by total_months
+6. Display total_months, total_rainfall, and average_rainfall
